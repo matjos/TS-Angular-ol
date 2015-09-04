@@ -1,0 +1,1 @@
+{"version":3,"file":"MyDirective.js","sourceRoot":"","sources":["MyDirective.ts"],"names":["Directive","Directive.MyDirective","Directive.MyDirective.constructor"],"mappings":"AAAA,IAAO,SAAS,CAef;AAfD,WAAO,SAAS,EAAC,CAAC;IACdA;QAAAC;YACIC,gBAAWA,GAAGA,WAAWA,CAACA;QAC9BA,CAACA;QAADD,kBAACA;IAADA,CAACA,AAFDD,IAECA;IAFYA,qBAAWA,cAEvBA,CAAAA;AAYLA,CAACA,EAfM,SAAS,KAAT,SAAS,QAef"}
